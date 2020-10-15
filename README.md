@@ -1,4 +1,4 @@
-![](https://github.com/gzeinnumer/KaptExample/blob/master/preview/KaptExample.JPG)
+![](https://github.com/gzeinnumer/KaptExample/blob/master/preview/KaptExample_2.JPG)
 
 - Active `Kotlin Kapt` in gradle after `kotlin-android`.
 ```gradle
