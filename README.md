@@ -1,5 +1,5 @@
-# KaptExample
- 
+![](https://raw.githubusercontent.com/gzeinnumer/KaptExample/master/image/KaptExample.JPG)
+
 - Active `Kotlin Kapt` in gradle after `kotlin-android`.
 ```gradle
 plugins {
