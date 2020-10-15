@@ -17,3 +17,7 @@ dependencies {
     kapt ....
 }
 ```
+
+```
+Copyright 2020 M. Fadli Zein
+```
