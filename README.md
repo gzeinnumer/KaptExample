@@ -18,6 +18,8 @@ dependencies {
 }
 ```
 
+---
+
 ```
 Copyright 2020 M. Fadli Zein
 ```
